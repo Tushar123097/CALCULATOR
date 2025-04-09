@@ -1,0 +1,18 @@
+
+input{
+    width: 100%;
+}
+#container
+{
+background-color: aqua;
+height: 220px;
+width: 220px;
+box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+div{
+    padding: 10px;
+}
+.btn{
+margin: 3px;
+cursor: pointer;
+}
